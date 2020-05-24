@@ -1,10 +1,10 @@
 # Kodi Media Center language file
-# Addon Name: Kodi Launches Steam
-# Addon id: script.kodi.launches.steam
+# Addon Name: Kodi Launches Playnite
+# Addon id: script.kodi.launches.playnite
 # Addon Provider: iampeluca <diego.hernandez.perez.cr@gmail.com>
 msgid ""
 msgstr ""
-"Project-Id-Version: script.kodi.launches.kodi\n"
+"Project-Id-Version: script.kodi.launches.playnite\n"
 "Report-Msgid-Bugs-To: diego.hernandez.perez.cr@gmail.com\n"
 "POT-Creation-Date: 2017-01-29 19:30-0600\n"
 "PO-Revision-Date: 2017-01-29 19:30-0600\n"
@@ -38,11 +38,11 @@ msgstr ""
 
 
 msgctxt "#32004"
-msgid "Start Steam in Big Picture Mode:"
+msgid "Start Playnite in Full Screen Mode:"
 msgstr ""
 
 msgctxt "#32005"
-msgid "Big Picture Mode parameter:"
+msgid "Full Screen Mode parameter:"
 msgstr ""
 
 msgctxt "#32006"
@@ -58,15 +58,15 @@ msgid "Executable not found"
 msgstr ""
 
 msgctxt "#32009"
-msgid "The Steam executable was not found on your System on the expected locations."
+msgid "The Playnite executable was not found on your System on the expected locations."
 msgstr ""
 
 msgctxt "#32010"
-msgid "Is Steam installed on your System?"
+msgid "Is Playnite installed on your System?"
 msgstr ""
 
 msgctxt "#32011"
-msgid "Please check if Steam is installed on your System before running this Addon. To get more information about installing Steam, go to http://store.steampowered.com"
+msgid "Please check if Playnite is installed on your System before running this Addon. To get more information about installing Playnite, go to https://playnite.link/"
 msgstr ""
 
 msgctxt "#32014"
@@ -74,7 +74,7 @@ msgid "Addon Settings"
 msgstr ""
 
 msgctxt "#32015"
-msgid "If you installed Steam but on a custom location, would you like to open the Addon Settings and specify that location?"
+msgid "If you installed Playnite but on a custom location, would you like to open the Addon Settings and specify that location?"
 msgstr ""
 
 msgctxt "#32016"
@@ -82,7 +82,7 @@ msgid "Unknown System"
 msgstr ""
 
 msgctxt "#32017"
-msgid "This Addon is not able to find a Steam installation. Please consider to specify a custom location for it on the Addon Settings."
+msgid "This Addon is not able to find a Playnite installation. Please consider to specify a custom location for it on the Addon Settings."
 msgstr ""
 
 msgctxt "#32018"

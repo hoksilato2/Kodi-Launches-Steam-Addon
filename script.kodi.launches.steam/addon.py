@@ -10,17 +10,17 @@ import subprocess
 
 
 # Getting addon constants
-ADDON = xbmcaddon.Addon('script.kodi.launches.steam')
+ADDON = xbmcaddon.Addon('script.kodi.launches.playnite')
 ADDON_ID = ADDON.getAddonInfo('id')
 ADDON_NAME = ADDON.getAddonInfo('name')
 ADDON_VERSION = ADDON.getAddonInfo('version')
 MSG = ADDON.getLocalizedString
 
 # Setting program constants
-WINDOWS_32_EXECUTABLE_ON_X86 = '%ProgramFiles%\\Steam\\Steam.exe'
-WINDOWS_32_EXECUTABLE_ON_X64 = '%ProgramFiles(x86)%\\Steam\\Steam.exe'
-LINUX_EXECUTABLE_ON_x86_64 = '/usr/bin/steam'
-MAC_EXECUTABLE = '~/Library/Application Support/Steam/Steam.app/Contents/MacOS/steam_osx'
+WINDOWS_32_EXECUTABLE_ON_X86 = '%ProgramFiles%\\playnite\\Playnite.FullscreenApp.exe'
+WINDOWS_32_EXECUTABLE_ON_X64 = '%ProgramFiles(x86)%\\playnite\\Playnite.FullscreenApp.exe'
+LINUX_EXECUTABLE_ON_x86_64 = '/usr/bin/playnite'
+MAC_EXECUTABLE = '~/Library/Application Support/playnite/playnite.app/Contents/MacOS/playnite_osx'
 
 # Getting main settings
 useCustomExecutable = ADDON.getSetting('useCustomExecutable')
@@ -40,7 +40,7 @@ def showExecutableNotFoundDialog():
     xbmcgui.Dialog().ok(title, message)
 # showExecutableNotFoundDialog
 
-# Method to show "Install Steam"
+# Method to show "Install playnite"
 def showInstallProgramDialog():
     title = MSG(32010)
     message = MSG(32011)
@@ -77,7 +77,7 @@ def showCustomExecutableNotFoundDialog():
     showOpenSettingsDialog()
 # showCustomExecutableNotFoundDialog
 
-# Method to execute Steam using provided executable and parameters from Settings
+# Method to execute playnite using provided executable and parameters from Settings
 def executeSteam(executable):
     parameters = ''
     startSteamInBigPictureMode = ADDON.getSetting('startSteamInBigPictureMode')

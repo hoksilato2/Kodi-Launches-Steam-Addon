@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Kodi Launches Steam
-# Addon id: script.kodi.launches.steam
+# Addon Name: Kodi Launches Playnite
+# Addon id: script.kodi.launches.playnite
 # Addon Provider: iampeluca <diego.hernandez.perez.cr@gmail.com>
 msgid ""
 msgstr ""
@@ -38,12 +38,12 @@ msgstr "Avanzado"
 
 
 msgctxt "#32004"
-msgid "Start Steam in Big Picture Mode:"
-msgstr "Iniciar Steam en modo Big Picture"
+msgid "Start Playnite in Full Screen Mode:"
+msgstr "Iniciar Playnite en modo Full Screen"
 
 msgctxt "#32005"
-msgid "Big Picture Mode parameter:"
-msgstr "Parámetro para modo Big Picture:"
+msgid "Full Screen Mode parameter:"
+msgstr "Parámetro para modo Full Screen:"
 
 msgctxt "#32006"
 msgid "Use extra parameters:"
@@ -58,32 +58,32 @@ msgid "Executable not found"
 msgstr "Ejecutable no encontrado"
 
 msgctxt "#32009"
-msgid "The Steam executable was not found on the default locations based on your System."
-msgstr "El ejecutable de Steam no fue encontrado en las ubicaciones por defecto basadas en su Sistema."
+msgid "The Playnite executable was not found on the default locations based on your System."
+msgstr "El ejecutable de Playnite no fue encontrado en las ubicaciones por defecto basadas en su Sistema."
 
 msgctxt "#32010"
-msgid "Is Steam installed on your System?"
-msgstr "¿Está Steam instalado en su Sistema?"
+msgid "Is Playnite installed on your System?"
+msgstr "¿Está Playnite instalado en su Sistema?"
 
 msgctxt "#32011"
-msgid "Please check if Steam is installed on your System before running this Addon. To get more information about installing Steam, go to http://store.steampowered.com"
-msgstr "Por favor verifique si Steam está instalado en su Sistema antes de usar este Addon. Para obtener más información sobre cómo instalar Steam, visite http://store.steampowered.com"
+msgid "Please check if Playnite is installed on your System before running this Addon. To get more information about installing Playnite, go to https://playnite.link/"
+msgstr "Por favor verifique si Playnite está instalado en su Sistema antes de usar este Addon. Para obtener más información sobre cómo instalar Playnite, visite https://playnite.link/"
 
 msgctxt "#32014"
 msgid "Addon Settings"
 msgstr "Configuración del Addon"
 
 msgctxt "#32015"
-msgid "If you installed Steam but on a custom location, would you like to open the Addon Settings and specify that location?"
-msgstr "Si tienes Steam instalado pero en una ubicación personalizada, ¿Te gustaría abrir la Configuración del Addon y especificar esa ubicación?"
+msgid "If you installed Playnite but on a custom location, would you like to open the Addon Settings and specify the Playnite.FullscreenApp.exe location?"
+msgstr "Si tienes Playnite instalado pero en una ubicación personalizada, ¿Te gustaría abrir la Configuración del Addon y especificar la ubicación de Playnite.FullscreenApp.exe?"
 
 msgctxt "#32016"
 msgid "Unknown System"
 msgstr "Sistema desconocido"
 
 msgctxt "#32017"
-msgid "This Addon is not able to find a Steam installation. Please consider to specify a custom location for it on the Addon Settings."
-msgstr "Este Addon no pudo encontrar una instalación de Steam. Por favor considere especificar una ubicación personalizada en la Configuración del Addon."
+msgid "This Addon is not able to find a Playnite installation. Please consider to specify a custom location for Playnite.FullscreenApp.exe on the Addon Settings."
+msgstr "Este Addon no pudo encontrar una instalación de Playnite. Por favor considere especificar la ubicación de Playnite.FullscreenApp.exe en la Configuración del Addon."
 
 msgctxt "#32018"
 msgid "Custom executable not found"

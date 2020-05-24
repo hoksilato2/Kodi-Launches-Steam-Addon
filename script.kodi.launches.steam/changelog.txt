@@ -1,3 +1,9 @@
+1.1.3
+  - Forked from BrosMakingSoftware/Kodi-Launches-Steam-Addon
+  - mod for use Playnite instead of Steam
+  - Changed some parameters and some text.
+  
+ 
 1.0.0
   - First Release
   - Main feature is to launch Steam from Kodi
