@@ -22,7 +22,7 @@ Use this Addon on Kodi if you want to launch Playnite from it using a nice inter
 This Addon is just a launcher, so it assumes that you already have installed and configured Playnite on your system. It will not assist you to install or configure Playnite or download games for it. This Addon does not collect any kind of hardware/software information, usage statistics or any kind of data from you or your system, we respect your privacy. Playnite is an open-source software hosted on [Github](https://github.com/JosefNemec/Playnite/wiki) too.
 
 
-![Addon-Selected-Information.jpg](/script.kodi.launches.steam/resources/addon-screenshots/Addon-Selected-Information.jpg)
+![Addon-Selected-Information.jpg](/script.kodi.launches.playnite/resources/addon-screenshots/Addon-Selected-Information.jpg)
 
 
 ## Installation
@@ -41,7 +41,7 @@ After that you need to install and configure Playnite, to download Playnite go t
 
 3. Once the Addon is installed, navigate to `Program Add-ons` and you will see Playnite listed there.   
 
-   ![Addon-Selected.jpg](script.kodi.launches.steam/resources/addon-screenshots/Addon-Selected.jpg)
+   ![Addon-Selected.jpg](script.kodi.launches.playnite/resources/addon-screenshots/Addon-Selected.jpg)
 
 4. Run the Addon, it will automatically look for the Playnite executable based on the default programs folders of your operating system. You don't need to worry about the volume of the installation, if the folder name is localized to a different language than English, the Addon will find it if it was installed on one of the default locations for programs.
 
@@ -49,10 +49,10 @@ After that you need to install and configure Playnite, to download Playnite go t
 
 5. If you need to check the Addon-Settings, you can do it by selecting the Playnite Addon, bringing up the contextual menu by right-clicking it (or pressing the `Guide` button on a remote, pressing `C` key on a keyboard, pressing `X` button on Xbox or `Square` button on PlayStation controllers) and selecting `Settings` or `Configure`.
 
-   ![Addon-Settings.jpg](script.kodi.launches.steam/resources/addon-screenshots/Addon-Settings-1.jpg)
+   ![Addon-Settings.jpg](script.kodi.launches.playnite/resources/addon-screenshots/Addon-Settings-1.jpg)
 
    The next window will show you the Addon Settings divided on two tabs, `General` tab (as displayed above) contains the Custom Executable settings, and `Advanced` tab (as displayed below) contains the Playnite Parameters Settings. If you ever need to start Playnite using a special parameter, this is the place where you need to add it.
 
-   ![Addon-Settings-Edit-Executable.jpg](script.kodi.launches.steam/resources/addon-screenshots/Addon-Settings-2.jpg)
+   ![Addon-Settings-Edit-Executable.jpg](script.kodi.launches.playnite/resources/addon-screenshots/Addon-Settings-2.jpg)
 
 6. Enjoy!
