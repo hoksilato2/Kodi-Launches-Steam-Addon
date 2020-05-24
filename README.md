@@ -5,7 +5,7 @@ Our goal is to bring to Kodi an easy access to launch Playnite in Full Screen in
 
 This Addonn was made for Kodi Krypton v17.x and higher since it takes advantage of new features introduced on this version.
 
-THIS ADDON IS FORKED FROM THE EXCELLENT WORK MADE BY BrosMakingSoftware to launch Steam on Kodi. All the merits for him.
+**THIS ADDON IS FORKED FROM THE EXCELLENT WORK MADE BY BrosMakingSoftware to launch Steam on Kodi. All the merits for him.**
 
 ## What makes this addon different than others of the same kind?
 - Completely open source, hosted on [GitHub](https://github.com/hoksilato2/Kodi-Launches-Steam-Addon/blob/master/README.md#kodi-launches-steam-addon) and published under GPL v3 license
